@@ -1,0 +1,8 @@
+Metrics	LogisticRegression unbalanced	LogisticRegression dict balanced	LogisticRegression balanced	RandomForest unbalanced	RandomForest dict balanced	RandomForest balanced	Random Forest balanced subsample	Balanced RandomForest	Balanced RandomForest balanced	Balanced RandomForest balanced subsample	XGBClassifier unbalanced	XGBClassifier dict balanced	SVM unbalanced	SVM
+Accuracy	0.1779	0.6847	0.4568	0.9006	0.9035	0.9051	0.3971	0.3394	0.351	0.383	0.9372	0.9372	0.8002	0.9098
+f1_macro	0.0476	0.6428	0.3864	0.8532	0.8593	0.8553	0.3651	0.3154	0.321	0.3486	0.8973	0.8973	0.5663	0.7779
+precision_macro	0.0804	0.6543	0.4332	0.9092	0.9145	0.9063	0.4071	0.3413	0.3446	0.3821	0.9157	0.9157	0.5885	0.7927
+recall_macro	0.0562	0.7069	0.4764	0.8358	0.8403	0.8395	0.4748	0.4298	0.4372	0.458	0.895	0.895	0.5735	0.7815
+f1_weighted	0.1023	0.6918	0.4278	0.8907	0.8943	0.8956	0.3853	0.3104	0.3204	0.3705	0.9343	0.9343	0.7646	0.902
+precision_weighted	0.1679	0.766	0.5761	0.9126	0.9159	0.9148	0.5484	0.3966	0.3993	0.5208	0.9399	0.9399	0.7606	0.9054
+recall_weighted	0.1779	0.6847	0.4568	0.9006	0.9035	0.9051	0.3971	0.3394	0.351	0.383	0.9372	0.9372	0.8002	0.9098
